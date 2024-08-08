@@ -1,2 +1,2 @@
-## Direito Digital h2
+## Direito Digital
 Repositório criado para a disciplina de Direito Digital.
