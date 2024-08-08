@@ -8,7 +8,9 @@
 É um conjunto de regras detalhadas que especificam como uma lei deve ser aplicada ou como uma organização deve funcionar. Ele serve para orientar e organizar as ações dentro de um determinado contexto, garantindo que todos sigam a lei de forma consistente.  
 
 
+
 **Sendo assim, a lei descreve o comportamento que deve ser seguido, a norma expressa o que é considerado certo ou errado pela sociedade, e o regulamento detalha como aplicar a lei na prática.**  
+
 
 
 
