@@ -9,3 +9,9 @@
 
 
 **Sendo assim, a lei descreve o comportamento que deve ser seguido, a norma expressa o que é considerado certo ou errado pela sociedade, e o regulamento detalha como aplicar a lei na prática.**
+
+
+## Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018)
+A LGPD é uma lei que foi criada para proteger a privacidade das pessoas no Brasil. Ela define como empresas e organizações devem coletar, usar, e armazenar os dados pessoais dos cidadãos, como nome, endereço, e informações financeiras. Assim ela visa proteger contra vazamentos de dados e acessos indevidos a informações pessoais.
+
+_"Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.”_
