@@ -65,6 +65,7 @@ _"O compliance é uma prática que cabe tanto na esfera pública como privada, q
 - Conformidade com leis e políticas corporativas
 - Estabelecer uma melhor cultura organizacional, abrindo o caminho para um crescimento mais sustentável
 
+O compliance pode ser empresarial, tributário, trabalhista, ambiental, fiscal, digital e jurídico.
+
 Atualmente, o compliance também abrange a segurança dos dados dos clientes, ou seja, está diretamente relacionado à LGPD. Com isso, as organizações devem conter em sua política de compliance, diretrizes para coleta, armazenamento, tratamento e compartilhamento de dados dos clientes.
 
-O compliance pode ser empresarial, tributário, trabalhista, ambiental, fiscal, digital e jurídico.
