@@ -54,3 +54,17 @@ Consiste em acusar alguém falsamente de ter cometido um crime. A pessoa que cal
 Refere-se à divulgação de informações falsas ou distorcidas que prejudicam a reputação de alguém. 
 
 ***A diferença entre os conceitos é que a difamação não envolve a acusação de um crime, mas sim a imputação de atos que ofendem a honra e a dignidade de uma pessoa.***
+
+<br>
+
+## Compliance:
+_"O compliance é uma prática que cabe tanto na esfera pública como privada, que visa alinhar as práticas de uma organização às leis, regras e normas existentes. Seu objetivo é gerar valor para o negócio."_
+
+- Garantia da transparência nos processos internos da organização
+- Manutenção da credibilidade
+- Conformidade com leis e políticas corporativas
+- Estabelecer uma melhor cultura organizacional, abrindo o caminho para um crescimento mais sustentável
+
+Atualmente, o compliance também abrange a segurança dos dados dos clientes, ou seja, está diretamente relacionado à LGPD. Com isso, as organizações devem conter em sua política de compliance, diretrizes para coleta, armazenamento, tratamento e compartilhamento de dados dos clientes.
+
+O compliance pode ser empresarial, tributário, trabalhista, ambiental, fiscal, digital e jurídico.
