@@ -11,9 +11,7 @@ As de **segundo nível**, também chamadas de AC Final, são responsáveis pela 
 <br>
 ## Assinatura digital:
 É amplamente utilizada para validar a autenticidade e integridade de uma mensagem ou documento digital. Serve com uma camada adicional de verificação da identidade de quem assina. É um serviço complementar ao certificado, visto que o certificado digital é um recurso obrigatório para realizar a assinatura digital.
-
 <br>
-
 ## Criptografia:
 Para que esses serviços sejam realizados de maneira segura, é necessário fazer uso da criptografia. O certificado e a assinatura utilizam de criptografia assimétrica, ou seja, usam um par de chaves distintas (uma pública e uma privada).
 **Chave pública:** pode ser compartilhada e é usada para criptografar e verificar assinaturas.
