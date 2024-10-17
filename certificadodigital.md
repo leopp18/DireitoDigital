@@ -8,9 +8,7 @@ Essas entidades podem ser de natureza pública ou privada, desde que reconhecida
 Elas são divididas em dois níveis, **primeiro e segundo**.
 As de **primeiro nível** são aptas a emitir certificados para outras Autoridades Certificadoras, consideradas de segundo nível.
 As de **segundo nível**, também chamadas de AC Final, são responsáveis pela emissão dos Certificados Digitais para pessoas físicas e jurídicas.
-
 <br>
-
 ## Assinatura digital:
 É amplamente utilizada para validar a autenticidade e integridade de uma mensagem ou documento digital. Serve com uma camada adicional de verificação da identidade de quem assina. É um serviço complementar ao certificado, visto que o certificado digital é um recurso obrigatório para realizar a assinatura digital.
 
