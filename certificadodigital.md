@@ -19,3 +19,6 @@ Para que esses serviços sejam realizados de maneira segura, é necessário faze
 
 Como são usadas? Quando alguém utiliza a chave pública para criptografar uma mensagem, somente a chave privada correspondente pode descriptografá-la. Isso garante que apenas o destinatário que possui a chave privada pode acessar o conteúdo.
 
+![image](https://github.com/user-attachments/assets/3b5c90e5-4d5e-4739-836c-7ab6192e9ccb)
+
+
