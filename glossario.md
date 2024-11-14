@@ -69,3 +69,26 @@ O compliance pode ser empresarial, tributário, trabalhista, ambiental, fiscal, 
 
 Atualmente, o compliance também abrange a segurança dos dados dos clientes, ou seja, está diretamente relacionado à LGPD. Com isso, as organizações devem conter em sua política de compliance, diretrizes para coleta, armazenamento, tratamento e compartilhamento de dados dos clientes.
 
+<br><br>
+
+## Licenças:
+A licença de software é um contrato que estabelece os direitos de uso, distribuição, restrições e modificações permitidas para um software. Podem ser restritivas (para software proprietário) ou permissivas (para código aberto).
+
+**- Software Proprietário:** Quando o  código-fonte não é acessível ao público. Apenas a empresa ou o desenvolvedor que criou o software tem permissão para modificar, distribuir ou vender. Exemplo: Microsoft Office.
+**- Software de Domínio Público:** Software sem direitos autorais, livre para uso, modificação e distribuição por qualquer pessoa. Geralmente, o autor abre mão dos direitos, permitindo que qualquer um o utilize.
+**- Adware:** Software gratuito que exibe anúncios indesejados como forma de remuneração para o desenvolvedor.
+**- Freeware:** Software gratuito para uso, mas geralmente com código-fonte fechado. O usuário pode usar sem pagar, mas não modificar.
+**- Shareware:** Software distribuído gratuitamente para testes, mas com limitações de uso, como tempo de uso (trial) ou funcionalidades restritas, incentivando o usuário a adquirir a versão completa.
+**- Software de Código Aberto (Open Source):** Software com código-fonte disponível publicamente, permitindo que qualquer pessoa o estude, modifique e distribua. Exemplo: Linux.
+
+**- GNU GPL:** é uma licença de software livre que permite que o software seja usado, modificado e distribuído. No entanto, exige que qualquer software derivado seja distribuído sob a mesma licença GPL, garantindo que o código modificado permaneça livre para uso e distribuição.
+**- GNU FDL (Free Documentation License):** Licença para documentação de software, permitindo cópia, modificação e redistribuição de documentos. Usada para manter documentação livre.
+**- GNU LGPL (Lesser General Public License):** Variante da GPL para bibliotecas de software. Permite que software proprietário use bibliotecas LGPL sem exigir que o software todo seja GPL, desde que a biblioteca em si permaneça livre.
+**- GNU AGPL (Affero General Public License):** Variante da GPL que cobre o uso de software em servidores de rede. Exige que qualquer modificação seja disponibilizada, mesmo que o software seja usado apenas via web.
+
+**Copyleft** é o princípio que garante que o software e suas derivações permaneçam livres. Licenças copyleft, como a GPL, exigem que o software derivado seja distribuído sob a mesma licença para preservar a liberdade do código.
+
+No GitHub, é comum ver as licenças **GNU GPL v3** e a **MIT License**, uma licença permissiva que permite quase qualquer uso, desde que o aviso de copyright original seja incluído.
+
+
+
